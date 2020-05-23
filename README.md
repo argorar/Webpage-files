@@ -1,0 +1,1 @@
+Repository of files to generate webpage with Hugo
